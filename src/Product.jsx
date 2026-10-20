@@ -1,0 +1,32 @@
+export const plantList = [
+    { name: "monstera",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn4jz7cFlRKC76JHOM1JEUlAmF1pwqUzBiEZ1MDJtZgg&s=10", category: "classique", id: "1ed",prix:200, isBestSale: true },
+    {
+      name: "ficus lyrata",
+      category: "classique",
+      id: "2ab",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6SelSTF58i95w43ejEtlN92ideEaubM9VOozDDZftnw&s=10",
+      prix:30,
+      isBestSale: false,
+    },
+    {
+      name: "pothos argenté",
+      category: "classique",
+      id: "3sd",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvl9eJfl6MPUE6LMc93SW74EHyhbRdTcY8Rmidpd8WIg&s=10",
+      prix:70,
+      isBestSale: false,
+    },
+    { name: "yucca", category: "classique",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL3pHK-PzIlrV6vtJSOA0OByQa8cOrC97SxlnH_Vwmng&s=10", id: "4kk",prix:100, isBestSale: false },
+    { name: "olivier", category: "extérieur",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTplZB_N5XlzqwaRx22NBXDOHNOZXDQiafltAxUAsmiMw&s", id: "5pl",prix:90, isBestSale: false },
+    { name: "géranium", category: "extérieur",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUIqrZWdvodyJN23WZrKhpKkGT3P2SMKM81oa5OasdOQ&s=10", id: "6uo",prix:50, isBestSale: false },
+    { name: "basilique", category: "extérieur",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO7sKjww70oh4YYqUNKSp_fBYOVrL6sIQ7luddkBs2EA&s=10", id: "7ie",prix:150, isBestSale: true },
+    { name: "aloe", category: "plante grasse",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRfnuQ6L5D_dWwuBpkwd_5gwBhXBs8Gn2mBhdQlqGpFQ&s=10", id: "8fp",prix:10, isBestSale: false },
+    {
+      name: "succulente",
+      category: "plante grasse",
+      id: "9vn",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDumGAMApGmtqL3SwaSVY8EDwfaDJtvEYovUKk5QQkXw&s=10",
+      prix:380,
+      isBestSale: false,
+    },
+  ];
